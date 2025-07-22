@@ -9,4 +9,4 @@ export default defineConfig({
     assetsDir: 'assets',
   },
   publicDir: 'public',
-})
+}); // <-- Corrected: Added '}' and ';' here
